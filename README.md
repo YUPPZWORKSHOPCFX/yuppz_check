@@ -4,7 +4,6 @@
 - Add this in your `server.cfg`:
 
 ```
-ensure yuppz_coke
 ensure yuppz_check
 ```
 
